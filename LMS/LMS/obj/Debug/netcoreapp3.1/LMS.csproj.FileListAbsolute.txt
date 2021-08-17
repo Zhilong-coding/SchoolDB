@@ -1,0 +1,12 @@
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.exe
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.deps.json
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.runtimeconfig.json
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.runtimeconfig.dev.json
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.dll
+C:\Users\zhilo\source\repos\LMS\LMS\bin\Debug\netcoreapp3.1\LMS.pdb
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.AssemblyInfoInputs.cache
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.AssemblyInfo.cs
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.csproj.CoreCompileInputs.cache
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.dll
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.pdb
+C:\Users\zhilo\source\repos\LMS\LMS\obj\Debug\netcoreapp3.1\LMS.genruntimeconfig.cache
