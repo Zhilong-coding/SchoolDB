@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhilo\\source\\repos\\LMS\\LMS\\LMS.csproj",
+      "projectUniqueName": "C:\\Users\\zhilo\\Documents\\GitHub\\SchoolDB\\LMS\\LMS\\LMS.csproj",
       "projectName": "LMS",
-      "projectPath": "C:\\Users\\zhilo\\source\\repos\\LMS\\LMS\\LMS.csproj",
+      "projectPath": "C:\\Users\\zhilo\\Documents\\GitHub\\SchoolDB\\LMS\\LMS\\LMS.csproj",
       "packagesPath": "C:\\Users\\zhilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhilo\\source\\repos\\LMS\\LMS\\obj\\",
+      "outputPath": "C:\\Users\\zhilo\\Documents\\GitHub\\SchoolDB\\LMS\\LMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "K:\\Visual Studio\\Shared\\NuGetPackages"
