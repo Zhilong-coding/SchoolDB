@@ -8,6 +8,7 @@ namespace LMS
         {
             Console.WriteLine("Hello World!");
             //Commenting
+            Console.WriteLine("New");
         }
     }
 }
